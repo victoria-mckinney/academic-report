@@ -2,3 +2,5 @@
 .archive/
 logs/
 **.log
+main.out
+main.aux
