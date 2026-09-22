@@ -2,5 +2,7 @@
 .archive/
 logs/
 **.log
+
+# Makefile aux files
 main.out
 main.aux
